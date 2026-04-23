@@ -8,7 +8,7 @@ body {
   background-color: green;
   display: flex;
   justify-content: center;
-  border: 5px solid black;
+  border: 0.5cap solid black;
   margin: 3cap 20cap 3cap 20cap;
 
 }
