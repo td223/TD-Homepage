@@ -1,0 +1,51 @@
+body {
+  background-color: whitesmoke;
+}
+
+
+
+.header {
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  border: 5px solid black;
+  margin: 3cap 20cap 3cap 20cap;
+
+}
+.header a {
+  color: white;
+  font-family: monospace;
+  font-size: 5cap;
+  text-decoration: none;
+}
+.header h1 {
+  color: lightpink;
+  font-family: monospace;
+  font-size: 5cap;
+  text-decoration: none;
+}
+
+
+.contents {
+  display: flex;
+  background-color: whitesmoke;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-links{
+  display: flex;
+  font-family: monospace;
+  padding: 2cap;
+}
+.content-links a {
+ font-size: 2cap;
+  color: red;
+  text-decoration: none;
+}
+.content-links a:hover {
+    font-size: 2.5cap;
+  color: red;
+  text-decoration: wavy underline;
+}
