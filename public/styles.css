@@ -8,20 +8,20 @@ body {
   background-color: green;
   display: flex;
   justify-content: center;
-  border: 0.5cap solid black;
-  margin: 3cap 20cap 3cap 20cap;
+  border: 0.5vw solid black;
+  margin: 3vw 20vw 3vw 20vw;
 
 }
 .header a {
   color: white;
   font-family: monospace;
-  font-size: 5cap;
+  font-size: 5vw;
   text-decoration: none;
 }
 .header h1 {
   color: lightpink;
   font-family: monospace;
-  font-size: 5cap;
+  font-size: 5vw;
   text-decoration: none;
 }
 
@@ -37,15 +37,15 @@ body {
 .content-links{
   display: flex;
   font-family: monospace;
-  padding: 2cap;
+  padding: 2vw;
 }
 .content-links a {
- font-size: 2cap;
+ font-size: 2vw;
   color: red;
   text-decoration: none;
 }
 .content-links a:hover {
-    font-size: 2.5cap;
+    font-size: 2.5vw;
   color: red;
   text-decoration: wavy underline;
 }
